@@ -9,4 +9,5 @@ The COVID-19 pandemic has reshaped life as we know it. Many of us are staying ho
 Therefore, there is a need to make wearing a mask as compulsion to prevent the spread of the virus especially in public places like shopping malls.
 
 Model:
-This model is made by transfer learning from the famous MobileNet model. 
+
+This model is made by transfer learning from the famous MobileNet model. OpenCV is used to capture live input from the webcam. HAAR cascade is used to detect the frontal face. 
